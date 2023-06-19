@@ -1,3 +1,5 @@
+This was a solo coding challenge. The assignment was to complete the below requirements in 90 minutes.
+
 ## About Code Challenges
 
 Welcome to your first code challenge! This is a chance for you to share what you know with the instructors.
